@@ -1,0 +1,1 @@
+jdbc:firebirdsql://firebird02.kinghost.net:3050//firebird/glasswindow.gdb
